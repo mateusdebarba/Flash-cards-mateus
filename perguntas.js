@@ -1,24 +1,24 @@
-criaCartão(
-    'Categoria',
-    'Pergunta?'
-    'Resposta'
+criaCartao(
+    'mundo',
+    'qual o maior planeta do sisitema solar?',
+    'júpiter'
 )
 
-criaCartão(
-    'Categoria',
-    'Pergunta?'
-    'Resposta'
+criaCartao(
+    'Agro',
+    'Quantos CV tem o trator BM 100?',
+    '100 CV'
 )
 
-criaCartão(
-    'Categoria',
-    'Pergunta?'
-    'Resposta'
+criaCartao(
+    'Agro',
+    'Qual o estado do brasil que mais produz soja?',
+    'Mato Grosso'
 )
 
-criaCartão(
-    'Categoria',
-    'Pergunta?'
-    'Resposta'
+criaCartao(
+    'Mecânica',
+    'Quantos mm tem um pistão da xre 300?',
+    ' 84mm'
 )
 

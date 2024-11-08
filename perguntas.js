@@ -1,6 +1,6 @@
 criaCartao(
     'mundo',
-    'qual o maior planeta do sisitema solar?',
+    'qual o maior planeta do sistema solar?',
     'júpiter'
 )
 
